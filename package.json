@@ -1,0 +1,39 @@
+{
+  "name": "open-job-agent",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@11.9.0",
+  "scripts": {
+    "build": "pnpm build:web && cargo build --workspace",
+    "build:web": "pnpm --filter @openjobagent/desktop build && pnpm --filter @openjobagent/extension build",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint . --max-warnings 0",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "test": "vitest run && pnpm test:rust",
+    "test:ts": "vitest run",
+    "test:rust": "pnpm --filter @openjobagent/desktop build:sidecar && cargo test --workspace",
+    "test:e2e": "playwright test",
+    "test:extension-load": "node scripts/extension-load-smoke.mjs",
+    "test:native-host": "cargo build --bin open-job-agent-native-host && node scripts/native-host-smoke.mjs",
+    "check": "pnpm format:check && pnpm lint && pnpm typecheck && pnpm test && pnpm build:web && pnpm test:native-host && pnpm test:extension-load && pnpm test:e2e && cargo fmt --all -- --check && cargo clippy --workspace --all-targets -- -D warnings",
+    "tauri": "pnpm --filter @openjobagent/desktop tauri"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.31.0",
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.0.15",
+    "@types/chrome": "^0.0.329",
+    "@vitest/coverage-v8": "^3.2.4",
+    "eslint": "^9.31.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.20",
+    "globals": "^16.3.0",
+    "jsdom": "^26.1.0",
+    "prettier": "^3.6.2",
+    "typescript": "^5.8.3",
+    "typescript-eslint": "^8.38.0",
+    "vitest": "^3.2.4"
+  }
+}

@@ -1,0 +1,11 @@
+[package]
+name = "open-job-agent-native-host"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+anyhow.workspace = true
+native-messaging = { path = "../../crates/native-messaging" }
+secure-storage = { path = "../../crates/secure-storage" }
+serde_json.workspace = true

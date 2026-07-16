@@ -1,0 +1,23 @@
+{
+  "name": "@openjobagent/extension",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit -p tsconfig.json && vite build && node scripts/build-workers.mjs"
+  },
+  "dependencies": {
+    "@openjobagent/form-engine": "workspace:*",
+    "@openjobagent/shared": "workspace:*",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "@vitejs/plugin-react": "^4.6.0",
+    "esbuild": "^0.25.8",
+    "vite": "6.3.5"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@openjobagent/memory-vault",
+  "version": "0.1.0",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "dependencies": {
+    "@openjobagent/shared": "workspace:*",
+    "yaml": "^2.8.0",
+    "zod": "^3.25.76"
+  }
+}

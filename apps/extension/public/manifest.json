@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "OpenJobAgent",
+  "version": "0.1.0",
+  "description": "Local-first grounded assistance for user-opened job application pages.",
+  "permissions": ["activeTab", "sidePanel", "storage", "nativeMessaging", "scripting"],
+  "optional_host_permissions": ["https://*/*", "http://*/*"],
+  "background": { "service_worker": "background.js" },
+  "side_panel": { "default_path": "sidepanel.html" },
+  "action": { "default_title": "Open OpenJobAgent" },
+  "content_scripts": [
+    {
+      "matches": ["http://localhost/*", "http://127.0.0.1/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "host_permissions": ["http://localhost/*", "http://127.0.0.1/*"]
+}

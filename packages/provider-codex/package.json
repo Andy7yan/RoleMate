@@ -1,0 +1,12 @@
+{
+  "name": "@openjobagent/provider-codex",
+  "version": "0.1.0",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "dependencies": {
+    "@openjobagent/shared": "workspace:*",
+    "@openai/codex-sdk": "0.144.5"
+  }
+}

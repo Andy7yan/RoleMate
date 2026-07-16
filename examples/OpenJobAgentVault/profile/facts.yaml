@@ -1,0 +1,37 @@
+facts:
+  - id: fact.identity.full_name
+    value: Alex Morgan
+    status: user_asserted
+    source:
+      type: user_confirmed
+      reference: profile/identity.yaml
+    updated_at: 2026-01-01
+    allowed_uses: [job_application, cover_letter]
+    sensitivity: personal
+  - id: fact.education.degree
+    value: Bachelor of Computer Science
+    status: verified
+    source:
+      type: user_confirmed
+      reference: profile/education.md
+    updated_at: 2026-01-01
+    allowed_uses: [job_application, cover_letter]
+    sensitivity: personal
+  - id: fact.skills.programming
+    value: [TypeScript, Rust]
+    status: user_asserted
+    source:
+      type: user_confirmed
+      reference: profile/skills.yaml
+    updated_at: 2026-01-01
+    allowed_uses: [job_application, cover_letter]
+    sensitivity: personal
+  - id: fact.work_authorisation.australia
+    value: Yes
+    status: user_asserted
+    source:
+      type: user_confirmed
+      reference: profile/work-authorisation.yaml
+    updated_at: 2026-01-01
+    allowed_uses: [job_application]
+    sensitivity: personal

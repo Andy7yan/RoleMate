@@ -1,0 +1,23 @@
+[package]
+name = "open-job-agent-desktop"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[lib]
+name = "open_job_agent_desktop_lib"
+crate-type = ["staticlib", "cdylib", "rlib"]
+
+[[bin]]
+name = "open-job-agent-desktop"
+path = "src/main.rs"
+
+[build-dependencies]
+tauri-build.workspace = true
+
+[dependencies]
+desktop-core = { path = "../../../crates/desktop-core" }
+secure-storage = { path = "../../../crates/secure-storage" }
+serde.workspace = true
+tauri.workspace = true
+uuid.workspace = true

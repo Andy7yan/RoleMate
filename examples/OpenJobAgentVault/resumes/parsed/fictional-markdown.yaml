@@ -1,0 +1,4 @@
+id: fictional-markdown
+source: resumes/original/fictional-resume.md
+review_status: approved
+facts: [fact.education.degree, fact.skills.programming]
