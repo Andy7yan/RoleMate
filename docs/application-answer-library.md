@@ -8,7 +8,7 @@
 
 1. Use only facts supported by Andy's approved resume/materials.
 2. Tailor the answer to the job description; do not submit a generic answer unchanged when the form allows meaningful detail.
-3. Do not claim commercial production impact, publications, certifications, or employment experience that has not been verified.
+3. Do not claim commercial production impact, publications, certifications, volunteering, donations, or employment experience that has not been verified.
 4. Preserve explicit approval before final application submission.
 
 ## Salary expectation
@@ -103,6 +103,38 @@ Interpretation: explain the concrete value Andy would bring to the specific team
 ### Research / quantitative answer
 
 > I would contribute rigorous experimental thinking, strong quantitative analysis and the ability to build the infrastructure required to test research questions. In my current independent research, I designed a multi-stage GPU experiment pipeline on UNSW's Katana HPC cluster and used hypothesis testing, bootstrap resampling, mixed-effects regression and PCA to analyse causal and geometric properties of LLM reasoning. I also identified confounds such as length-driven correlations and aggregation artifacts rather than treating initial patterns as conclusions. I would bring that same combination of methodological care, implementation ability and clear communication to the team's research problems.
+
+## Force For Good / social-impact question
+
+Original prompt:
+
+> Force For Good: How do you contribute to making the world a better place? Whether it's through volunteering, donations, philanthropic efforts, or other acts of kindness and social responsibility, what steps do you take to be a positive force for good?
+
+Interpretation: this is not the same as “How would you contribute to the team?” It tests values, initiative, ambition, humility and whether the applicant has understood how the employer creates social value.
+
+Answer rules:
+
+1. Do not invent volunteering, charitable donations or activism.
+2. Show ambition through the scale of impact Andy wants to create, not through grandiose claims about existing impact.
+3. Use verified examples of helping people or organisations: reducing repetitive work, preserving knowledge, improving access to useful technology, supporting teammates and building systems responsibly.
+4. Connect the final paragraph to the company's actual product, customers and stated values.
+5. Avoid claiming that technology automatically makes the world better; emphasise reliability, accessibility, safety and measurable usefulness.
+
+### Freelancer.com-specific answer
+
+> I try to make technology useful to people, not merely impressive. My ambition is to build systems that expand access to opportunity and allow people to spend more time on meaningful work. In an industry-sponsored project, I lead a six-person team building WorkTrace AI, which captures hard-won operational knowledge and turns it into reusable assets, helping organisations preserve expertise and reduce avoidable rework. For a private client, I automated invoice retrieval and spreadsheet workflows, removing repetitive manual work. I also try to contribute through how I work: sharing context, supporting teammates and taking responsibility for security and reliability rather than treating them as someone else's problem.
+>
+> That is why Freelancer.com appeals to me. Its marketplace gives people around the world access to work and enables organisations to reach expertise they may not have locally. I would like to contribute by building reliable, data-informed products that make those opportunities safer, easier to access and more valuable for both freelancers and employers.
+
+### Tailoring variables for other employers
+
+Replace the final paragraph according to the company's social mechanism:
+
+- Employment marketplace: access to work, economic opportunity, trust and safe transactions.
+- Health technology: patient outcomes, accessibility, reliability and clinical safety.
+- Cybersecurity: protecting users, organisations and essential services.
+- AI company: responsible deployment, useful automation, human oversight and evidence-based evaluation.
+- Enterprise software: reducing waste, preserving knowledge and helping people make better decisions.
 
 ## Tailoring checklist for “How would you contribute?”
 
