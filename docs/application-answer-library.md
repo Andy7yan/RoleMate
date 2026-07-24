@@ -1,15 +1,17 @@
 # Application Answer Library
 
-> Reusable, evidence-grounded answers for Andy's job applications.
+> Reusable, evidence-grounded rules for Andy's job applications.
 >
 > Last updated: 2026-07-24 (Australia/Sydney)
 
 ## Usage rules
 
-1. Use only facts supported by Andy's approved resume/materials.
-2. Tailor the answer to the job description; do not submit a generic answer unchanged when the form allows meaningful detail.
-3. Do not claim commercial production impact, publications, certifications, volunteering, donations, or employment experience that has not been verified.
-4. Preserve explicit approval before final application submission.
+1. Use only facts supported by Andy's approved resume/materials or details he provides for the specific question.
+2. Fixed factual fields such as salary expectation and notice period may use the stored case rules below.
+3. Open-ended behavioural, motivation, values and contribution questions must **not** use a generic reusable answer.
+4. Before drafting an open-ended answer, research the company and the exact role, then present the findings to Andy and obtain the specific personal content he wants included.
+5. Do not claim commercial production impact, publications, certifications, volunteering, donations or employment experience that has not been verified.
+6. Preserve explicit approval before final application submission.
 
 ## Salary expectation
 
@@ -79,72 +81,88 @@ Dropdown selection:
 
 `Notice period` is zero. `Full-time start date` is 1 September 2026. Do not answer “one month” merely because graduation is one month away.
 
-## How would you contribute?
+## Open-ended application questions
 
-Interpretation: explain the concrete value Andy would bring to the specific team, supported by evidence. A strong answer should combine:
+This section applies to questions such as:
 
-1. Relevant technical capability.
-2. Evidence of applying it in projects or research.
-3. Working style and contribution to the team.
-4. Connection to the employer's role or problem.
+- How would you contribute?
+- Why this company or role?
+- How do you make the world a better place?
+- What motivates you?
+- Which company value resonates with you?
+- Describe the impact you want to make.
 
-### Default software-engineering answer
+There is deliberately **no universal answer template** for these questions. Their purpose and expected evidence depend on the company, role and wording.
 
-> I would contribute a combination of strong software engineering fundamentals, practical product delivery experience and a disciplined approach to problem solving. I have built systems across TypeScript, React, FastAPI, Rust, Java, Python and SQL, including an industry-sponsored platform that integrates a browser extension, desktop companion, web application and backend. As Technical Product Lead and Scrum Master, I also helped translate business requirements into deliverable technical work for a six-person team. I would bring that ability to learn quickly, work across system boundaries, communicate clearly and turn ambiguous requirements into reliable, testable solutions.
+### Required workflow
 
-### Internship-focused answer
+When Andy provides an open-ended application question, respond first with:
 
-> I would contribute strong technical foundations together with the ability to become productive quickly. Through university, independent research and an industry-sponsored project, I have worked with Python, Java, TypeScript, SQL, React, FastAPI, Rust and cloud-oriented development workflows. I am comfortable breaking unfamiliar problems into testable steps, asking focused questions and incorporating feedback. I would contribute as an intern by taking ownership of well-defined tasks, documenting what I learn, supporting the team reliably and progressively handling more complex work as I build context.
+#### 1. Company business and exact role expectations
 
-### AI / machine-learning answer
+Research and explain:
 
-> I would contribute experience connecting AI experimentation with usable software systems. My independent research examines chain-of-thought reasoning in large language models through controlled causal experiments, GPU pipelines, statistical testing and interactive analysis tools. In parallel, I have helped build an agentic AI product that uses tool calling, screenshots and event logs to generate and reconcile structured knowledge assets. This gives me experience across research design, Python-based analysis, model-oriented workflows and product integration. I would bring careful experimentation, evidence-based reasoning and the ability to translate AI capabilities into practical features with appropriate human review.
+- the company's actual product, customers and business model;
+- the exact position being applied for, not merely a broad category such as “software role”;
+- the team's likely responsibilities and the outcomes expected from an intern or early-career hire;
+- the technical and behavioural signals the job description appears to test;
+- any important business problem the role helps solve.
 
-### Research / quantitative answer
+Clearly separate explicit job-description requirements from reasonable inference.
 
-> I would contribute rigorous experimental thinking, strong quantitative analysis and the ability to build the infrastructure required to test research questions. In my current independent research, I designed a multi-stage GPU experiment pipeline on UNSW's Katana HPC cluster and used hypothesis testing, bootstrap resampling, mixed-effects regression and PCA to analyse causal and geometric properties of LLM reasoning. I also identified confounds such as length-driven correlations and aggregation artifacts rather than treating initial patterns as conclusions. I would bring that same combination of methodological care, implementation ability and clear communication to the team's research problems.
+#### 2. Company value orientation
 
-## Force For Good / social-impact question
+Research and explain:
 
-Original prompt:
+- formally stated company values;
+- repeated cultural language in the careers page and job listing;
+- whether the company emphasises ownership, speed, customer impact, safety, collaboration, commercial results, social impact, intellectual rigour or another orientation;
+- what personality risks the question may be screening for, such as arrogance, passivity, lack of ambition, weak business awareness or unsupported idealism.
 
-> Force For Good: How do you contribute to making the world a better place? Whether it's through volunteering, donations, philanthropic efforts, or other acts of kindness and social responsibility, what steps do you take to be a positive force for good?
+Do not treat generic marketing language as strong evidence unless it is repeated or connected to actual company behaviour.
 
-Interpretation: this is not the same as “How would you contribute to the team?” It tests values, initiative, ambition, humility and whether the applicant has understood how the employer creates social value.
+#### 3. Obtain question-specific content from Andy
 
-Answer rules:
+After presenting the company and role analysis, ask Andy to provide the concrete content he wants included for this particular application. Examples may include:
 
-1. Do not invent volunteering, charitable donations or activism.
-2. Show ambition through the scale of impact Andy wants to create, not through grandiose claims about existing impact.
-3. Use verified examples of helping people or organisations: reducing repetitive work, preserving knowledge, improving access to useful technology, supporting teammates and building systems responsibly.
-4. Connect the final paragraph to the company's actual product, customers and stated values.
-5. Avoid claiming that technology automatically makes the world better; emphasise reliability, accessibility, safety and measurable usefulness.
+- a personal belief or ambition;
+- a relevant project, action or decision;
+- the type of impact he wants to create;
+- a specific reason the company's business matters to him;
+- a working-style example that demonstrates the relevant value.
 
-### Freelancer.com-specific answer
+Do not automatically select a resume example merely because it is available. The example must fit Andy's intended message for that question.
 
-> I try to make technology useful to people, not merely impressive. My ambition is to build systems that expand access to opportunity and allow people to spend more time on meaningful work. In an industry-sponsored project, I lead a six-person team building WorkTrace AI, which captures hard-won operational knowledge and turns it into reusable assets, helping organisations preserve expertise and reduce avoidable rework. For a private client, I automated invoice retrieval and spreadsheet workflows, removing repetitive manual work. I also try to contribute through how I work: sharing context, supporting teammates and taking responsibility for security and reliability rather than treating them as someone else's problem.
->
-> That is why Freelancer.com appeals to me. Its marketplace gives people around the world access to work and enables organisations to reach expertise they may not have locally. I would like to contribute by building reliable, data-informed products that make those opportunities safer, easier to access and more valuable for both freelancers and employers.
+### Drafting only after content is resolved
 
-### Tailoring variables for other employers
+Once Andy provides the specific content:
 
-Replace the final paragraph according to the company's social mechanism:
+1. Draft an answer tailored to the exact company, role and prompt.
+2. Use company research to establish relevance, not to flatter the employer.
+3. Show ambition through a credible direction and concrete actions, not inflated claims.
+4. Show confidence without implying that Andy alone produced team outcomes.
+5. Include initiative, judgement and learning where relevant.
+6. Avoid generic statements that could be sent unchanged to another company.
+7. Keep most application-form answers between 100 and 150 words unless the field specifies another limit.
 
-- Employment marketplace: access to work, economic opportunity, trust and safe transactions.
-- Health technology: patient outcomes, accessibility, reliability and clinical safety.
-- Cybersecurity: protecting users, organisations and essential services.
-- AI company: responsible deployment, useful automation, human oversight and evidence-based evaluation.
-- Enterprise software: reducing waste, preserving knowledge and helping people make better decisions.
+### Default response format before drafting
 
-## Tailoring checklist for “How would you contribute?”
+Use this structure:
 
-Before using an answer, replace at least one generic sentence with a job-specific contribution:
+```text
+Company business:
+[Specific product, customers, business model and relevant business problem]
 
-- Backend: APIs, databases, distributed systems, reliability, testing.
-- Frontend/full-stack: React, TypeScript, user workflows, integration across components.
-- Systems/networking: Java TCP/UDP, custom RDT, C, Linux, concurrency.
-- AI/ML: controlled experiments, PyTorch, LLM workflows, statistical validation.
-- Cybersecurity: penetration testing, authentication, multi-tenant isolation, Row-Level Security.
-- Product/consulting: translating business needs, stakeholder communication, Agile delivery.
+Role expectation:
+[Exact role, expected work, skills and outcomes]
 
-Keep most application-form answers between 100 and 150 words unless the field specifies another limit.
+Value orientation:
+[Stated values, observed cultural emphasis and likely personality signals being assessed]
+
+Content needed from Andy:
+[One focused request for the personal idea, example or ambition to include]
+```
+
+### Prohibited shortcut
+
+Do not reuse the previous generic software-engineering, internship, AI/ML, research or “Force For Good” answer as a finished response. Those answers were removed because the same wording cannot reliably address different companies' business models, role expectations and values.
