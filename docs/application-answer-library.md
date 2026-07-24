@@ -145,6 +145,31 @@ Once Andy provides the specific content:
 6. Avoid generic statements that could be sent unchanged to another company.
 7. Keep most application-form answers between 100 and 150 words unless the field specifies another limit.
 
+### Writing-quality lessons from the Nuix answer
+
+These are general drafting rules learned from Andy's final Nuix answer and should be applied to future open-ended questions:
+
+1. **Mark subjective interpretation explicitly.** Use wording such as `I think` or `I believe` when expressing a personal judgement. Do not present a value judgement as an objective fact.
+2. **Do not mechanically repeat the prompt.** Avoid echoing phrases such as `force for good` or `contribute` merely because they appear in the question.
+3. **Make the opening short, natural and speakable.** The first sentence should establish the core idea quickly without becoming abstract or syntactically heavy.
+4. **Do not destroy the reasoning chain while shortening.** Preserve the complete progression: information exists at unprecedented scale → it contains useful signals → the scale makes manual interpretation difficult → the company's technology addresses this problem → Andy wants to participate in that work.
+5. **Describe data generation accurately.** Technology does not simply “create data.” People use technology to record activity and communication at unprecedented scale; analysis systems then extract useful meaning from those records.
+6. **Represent the full range of legitimate value.** Do not frame data analysis only around crime, risk or social problems. Where relevant, include commercial insight, customer feedback, operational learning and other constructive uses so the answer does not imply indiscriminate surveillance.
+7. **Make company fit feel observed rather than templated.** Avoid default phrases such as `This is what draws me to...` or `It aligns with my values...`. Prefer direct observations such as `From what I have learned, Nuix addresses this issue by...`.
+8. **State concrete intended work instead of abstract contribution.** Explain what Andy hopes to improve, such as system accuracy, reliability, usefulness, safety or accessibility.
+9. **Embed ethics into engineering quality.** Privacy, safeguards and human judgement should appear as part of building a good system, not as an unrelated disclaimer appended at the end.
+10. **End with controlled ambition.** A strong conclusion may express an ambition to improve the world, but it must grow from the concrete work already described—for example, improving one consequential decision at a time.
+11. **Maintain natural progression within a single paragraph.** A one-paragraph answer still requires causal movement and a clear conclusion; it must not become a stack of disconnected opinions.
+12. **Preserve Andy's original thought.** Editing should organise and mature his reasoning rather than replace it with a conventional recruitment template.
+
+### Approved Nuix reference answer
+
+This answer is company-specific and is stored as a reference for tone and reasoning quality, not as a reusable template:
+
+> I think technology creates meaningful social value when it helps people understand what is happening in the world. Online activity like comments, reviews, and other digital records can contain early signs of risk, some social patterns, and potential commercial insights. The issue is their scale—too big to examine, and that's why we are here.
+>
+> From what I have learned, Nuix addresses this issue by turning digital complexity into evidence people can understand and act on. In the AI Team, I hope to make these systems more accurate, reliable and useful, while keeping privacy, safeguards and human judgement at the centre—and through that work, help move the world in a better direction, even if only one decision at a time.
+
 ### Default response format before drafting
 
 Use this structure:
@@ -166,3 +191,37 @@ Content needed from Andy:
 ### Prohibited shortcut
 
 Do not reuse the previous generic software-engineering, internship, AI/ML, research or “Force For Good” answer as a finished response. Those answers were removed because the same wording cannot reliably address different companies' business models, role expectations and values.
+
+## Cover letter rules
+
+A cover letter may share the same underlying reasons and evidence as an application-form answer, but it must not repeat the same wording or perform the same function.
+
+### Distinction from a short application question
+
+- **Application question:** answers one narrow prompt and may focus deeply on one belief, value or example.
+- **Cover letter:** presents the overall case for hiring Andy for the exact role.
+
+A cover letter should normally answer four questions:
+
+1. Why this exact company and role?
+2. Which two or three requirements does Andy match most strongly?
+3. What evidence proves that match?
+4. What kind of colleague and early-career hire would Andy be?
+
+### Recommended structure
+
+1. **Opening:** name the exact role and give one specific reason the company's work matters to Andy. Do not start with `I am writing to apply...` unless formality requires it.
+2. **Technical fit:** connect the most important job requirements to one or two verified experiences. Select evidence rather than summarising the entire resume.
+3. **Working fit:** demonstrate ownership, learning speed, collaboration or judgement using one concrete example.
+4. **Company-specific close:** explain the work Andy hopes to do in that team and close calmly.
+
+### Reuse without duplication
+
+The Nuix social-impact answer may supply the motivation thread for a Nuix cover letter, but the cover letter should use it in only one or two sentences. The remaining space should prove role fit through evidence such as:
+
+- building an AI-enabled product across TypeScript, React, FastAPI and Rust;
+- translating business requirements into technical work as Technical Product Lead and Scrum Master;
+- designing careful LLM experiments and statistical validation;
+- applying security, privacy and human-review considerations in system design.
+
+Do not paste the full application answer into the cover letter. Recruiters may read both, and repetition wastes the opportunity to provide new evidence.
