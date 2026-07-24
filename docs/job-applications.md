@@ -2,7 +2,7 @@
 
 > Personal operating document for Andy's Sydney job search. This file is the source of truth for application status until the RoleMate dashboard persists the same data locally.
 >
-> Last updated: 2026-07-22 (Australia/Sydney)
+> Last verified: 2026-07-24 (Australia/Sydney)
 
 ## Status rules
 
@@ -21,35 +21,50 @@ Safety and workflow rules:
 
 ## TBS — To Be Submitted
 
-| Priority | Company | Role | Deadline | Eligibility / risk | Source |
-|---|---|---|---|---|---|
-| P0 | Freelancer.com | Software Engineering Internship (Dec 2026–Mar 2027) | Rolling | Final-year eligible; valid work rights required | [Listing](https://au.linkedin.com/jobs/view/software-engineering-internship-dec-2026-march-2027-at-freelancer-com-4432319333) |
-| P0 | Amazon Web Services | Software Development Graduate 2027 | Rolling | Final semester or graduated within 24 months; verify visa duration | [Listing](https://au.linkedin.com/jobs/view/software-development-graduate-2027-sydney-at-amazon-web-services-4437356640) |
-| P0 | TikTok | Backend Software Engineer Graduate — Trust & Safety (2027) | 2026-07-30 | International applicants accepted; TikTok allows at most two applications globally | [Listing](https://au.gradconnection.com/employers/tiktok/jobs/tiktok-backend-software-engineer-graduate-trust-and-safety-engineering-2027-start-2/) |
-| P0 | IAG | Digital Retail Engineering & Operations Graduate Program 2027 | 2026-07-31 | Completion by end-2026 eligible; work rights must cover program | [Listing](https://au.linkedin.com/jobs/view/digital-retail-engineering-operations-graduate-program-2027-at-iag-4442570079) |
-| P0 | Schneider Electric | 2027 Graduate Program — Computer Science & Software | 2026-07-26 | 485 accepted only with at least two years validity remaining; verify | [Listing](https://au.prosple.com/graduate-employers/schneider-electric-australia-new-zealand/jobs-internships/2027-graduate-program-computer-science-software) |
-| P0 | Citadel Securities | 2026–27 Software Engineering Internship | 2026-07-28 | International applicants indicated; confirm student-timing requirement | [Listing](https://au.gradconnection.com/employers/citadel-citadel-securities/jobs/citadel-securities-2026-2027-software-engineering-internship-33/) |
-| P0 | Arista Networks | Graduate Software Engineer, EOS | Rolling | Student visa or other legal work entitlement accepted | [Listing](https://au.linkedin.com/jobs/view/graduate-software-engineer-eos-sydney-at-arista-networks-4439161117) |
-| P0 | Nuix | Associate Software Engineer, AI Team | Rolling | Work-right restriction not stated; verify in application | [Listing](https://au.linkedin.com/jobs/view/associate-software-engineer-ai-team-at-nuix-4442594641) |
-| P0 | ResMed | Graduate Software Engineer | Rolling | Work-right restriction not stated; verify | [Listing](https://au.linkedin.com/jobs/view/graduate-software-engineer-at-resmed-4414656386) |
-| P0 | MYOB | Associate Developer | Rolling | Work-right restriction not stated; verify | [Listing](https://au.linkedin.com/jobs/view/associate-developer-at-myob-4438154848) |
-| P1 | TikTok | Machine Learning Engineer Graduate — Trust & Safety (2027) | 2026-07-30 | International applicants accepted; counts toward two-application limit | [Listing](https://au.gradconnection.com/employers/tiktok/jobs/tiktok-machine-learning-engineer-graduate-trust-and-safety-engineering-2027-start-4/) |
-| P1 | TikTok | Software Engineer Intern — TikTok LIVE (Dec 2026–Feb 2027) | Rolling | Must be pursuing a degree when applying; counts toward two-application limit | [Listing](https://au.linkedin.com/jobs/view/software-engineer-intern-tiktok-live-2027-start-bs-ms-at-tiktok-4439152443) |
-| P1 | Westpac | Technology Cyber Graduate Program | 2026-08-14 | Verify international-student/work-right eligibility | [Listing](https://au.prosple.com/graduate-employers/westpac/jobs-internships/technology-cyber-graduate-program) |
-| P1 | EY | 2027 Graduate Program — Technology | Rolling | International applicants must satisfy EY's separate criteria; one EY application only | [Listing](https://au.gradconnection.com/employers/ey/jobs/ey-2027-ey-graduate-program-technology-2-2/) |
-| P1 | Citadel Securities | 2027 Graduate Quantitative Trader | 2026-07-28 | International applicants accepted; lower fit than SWE role | [Listing](https://au.gradconnection.com/employers/citadel-citadel-securities/jobs/citadel-securities-2027-graduate-quantitative-trader-2/) |
+The links below were individually checked on 2026-07-24. Prefer employer-hosted application pages where available.
+
+| Priority | Company | Exact role | Recommended resume | Deadline | Eligibility / rationale | Direct application |
+|---|---|---|---|---|---|---|
+| P0 | Nuix | Associate Software Engineer, AI Team | Industrial, one page | Rolling | Best overall match: Java/Python/React/TypeScript, AI/agentic product work, Scrum and testing | [Apply / listing](https://au.linkedin.com/jobs/view/associate-software-engineer-ai-team-at-nuix-4442594641) |
+| P0 | Amazon Web Services | Software Development Graduate, AWS, 2027 Sydney — Job ID 10462014 | Industrial, one page | Rolling | Final-semester candidates eligible; strong Java, Linux, algorithms, networking and distributed-systems evidence | [Official application](https://www.amazon.jobs/en-gb/jobs/10462014/software-development-graduate-aws-2027-sydney) |
+| P0 | TikTok | Backend Software Engineer Graduate (Trust and Safety Engineering) — 2027 Start (BS/MS), Job Code A144848 | Industrial, one page | Rolling | Strong backend and platform fit; international applicants considered; one of only two TikTok applications | [Official application](https://lifeattiktok.com/search/7605166042878068997) |
+| P0 | TikTok | Machine Learning Engineer Graduate (Trust and Safety Engineering) — 2027 Start (BS/MS), Job Code A61654 | Research, two pages | Rolling | Strong match to LLM research, PyTorch, experimental design and statistical analysis; use as second TikTok application | [Official application](https://lifeattiktok.com/search/7605165402553944325) |
+| P0 | Arista Networks | Graduate Software Engineer, EOS — Sydney | Industrial, one page | Rolling | Very strong networking/systems match: Java sockets, TCP/UDP, RDT, C, algorithms and Linux; student visa explicitly accepted | [Direct listing](https://au.linkedin.com/jobs/view/graduate-software-engineer-eos-sydney-at-arista-networks-4439161117) |
+| P0 | Freelancer.com | Software Engineering Internship (Dec 2026–March 2027) | Industrial, one page | Rolling | Final-year candidates accepted; TypeScript, Python, SQL, Linux and production web work match; potential junior conversion | [Direct listing](https://au.linkedin.com/jobs/view/software-engineering-internship-dec-2026-march-2027-at-freelancer-com-4432319333) |
+| P0 | Citadel Securities | Software Engineer — Intern (Australia) | Research, two pages | Rolling | Strong algorithms, statistics, Python and systems profile; official Sydney application is open | [Official application](https://www.citadelsecurities.com/careers/details/software-engineer-intern-australia/) |
+| P0 | ResMed | Graduate Software Engineer | Industrial, one page | Rolling | AWS, programming, CI/CD and test-engineering role; WorkTrace and software-engineering projects are relevant | [Direct listing](https://au.linkedin.com/jobs/view/graduate-software-engineer-at-resmed-4414656386) |
+| P1 | MYOB | Associate Developer — MYOB Business | Industrial, one page | Rolling | Full-stack SaaS role using React, Node/JavaScript, SQL, AWS/Azure and CI/CD; apply despite C#/.NET gap | [Direct listing](https://au.linkedin.com/jobs/view/associate-developer-at-myob-4438154848) |
+| P1 | swipejobs | AI Graduate Program | Research, two pages | Rolling | Direct fit to Python, AI/ML experimentation, agentic products, analytics and technical product leadership | [Direct listing](https://au.linkedin.com/jobs/view/ai-graduate-program-at-swipejobs-4376974326) |
+
+### TikTok application decision
+
+TikTok permits at most two applications globally and considers them in application order. Recommended order:
+
+1. Backend Software Engineer Graduate — Trust & Safety.
+2. Machine Learning Engineer Graduate — Trust & Safety.
+
+Do not use a slot on the weaker-fit TikTok LIVE frontend/mobile/intern roles unless one of the two recommended roles closes.
 
 ## Submitted — Follow-up Required
 
 Move an entry here only after explicit confirmation.
 
-| Company | Role | Submitted on | Follow-up due | Latest update | Application / portal link |
+| Company | Exact role | Submitted on | Follow-up due | Latest update | Application / portal link |
 |---|---|---|---|---|---|
 | — | — | — | — | No applications confirmed submitted yet | — |
 
-## Watchlist / currently not eligible
+## Removed from active TBS after verification
 
-These are not counted as active applications.
+These were previously listed but are not currently valid active applications for Andy.
+
+- **IAG — Digital Retail Engineering & Operations Graduate Program 2027:** the exact official job page now says the position has been filled, despite the general graduate-program page still showing a second intake.
+- **Schneider Electric — 2027 Graduate Program, Technical:** requires the applicant to already be a citizen/PR or hold a subclass 485 visa with at least two years remaining at the time of application. A current student visa does not satisfy the published requirement.
+- **Westpac — Technology Cyber / Engineering / Data, Digital & AI Graduate Programs:** requires Australian/NZ citizenship or Australian permanent residency at application.
+- **EY — 2027 Graduate Program:** the standard program requires citizen/PR status. International students can only submit an Expression of Interest, must independently obtain PR or another suitable visa, and EY does not sponsor residency.
+- **Citadel Securities — 2027 Graduate Quantitative Trader:** substantially weaker fit than Software Engineering; no current official Sydney graduate-specific application page was verified.
+- **TikTok — Software Engineer Intern, TikTok LIVE:** weaker than the two recommended TikTok graduate roles and consumes one of the two global application slots.
+
+## Watchlist / currently not eligible
 
 - **Optiver — Graduate Software Developer 2027:** expression of interest only; formal applications closed.
 - **The GPT Group — Technology Graduate:** unrestricted work rights required.
