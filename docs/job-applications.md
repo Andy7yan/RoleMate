@@ -26,7 +26,6 @@ The links below were individually checked on 2026-07-24. Prefer employer-hosted 
 | Priority | Company | Exact role | Recommended resume | Deadline | Eligibility / rationale | Direct application |
 |---|---|---|---|---|---|---|
 | P0 | Nuix | Associate Software Engineer, AI Team | Industrial, one page | Rolling | Best overall match: Java/Python/React/TypeScript, AI/agentic product work, Scrum and testing | [Apply / listing](https://au.linkedin.com/jobs/view/associate-software-engineer-ai-team-at-nuix-4442594641) |
-| P0 | Amazon Web Services | Software Development Graduate, AWS, 2027 Sydney — Job ID 10462014 | Industrial, one page | Rolling | Final-semester candidates eligible; strong Java, Linux, algorithms, networking and distributed-systems evidence | [Official application](https://www.amazon.jobs/en-gb/jobs/10462014/software-development-graduate-aws-2027-sydney) |
 | P0 | TikTok | Backend Software Engineer Graduate (Trust and Safety Engineering) — 2027 Start (BS/MS), Job Code A144848 | Industrial, one page | Rolling | Strong backend and platform fit; international applicants considered; one of only two TikTok applications | [Official application](https://lifeattiktok.com/search/7605166042878068997) |
 | P0 | TikTok | Machine Learning Engineer Graduate (Trust and Safety Engineering) — 2027 Start (BS/MS), Job Code A61654 | Research, two pages | Rolling | Strong match to LLM research, PyTorch, experimental design and statistical analysis; use as second TikTok application | [Official application](https://lifeattiktok.com/search/7605165402553944325) |
 | P0 | Arista Networks | Graduate Software Engineer, EOS — Sydney | Industrial, one page | Rolling | Very strong networking/systems match: Java sockets, TCP/UDP, RDT, C, algorithms and Linux; student visa explicitly accepted | [Direct listing](https://au.linkedin.com/jobs/view/graduate-software-engineer-eos-sydney-at-arista-networks-4439161117) |
@@ -51,7 +50,15 @@ Move an entry here only after explicit confirmation.
 
 | Company | Exact role | Submitted on | Follow-up due | Latest update | Application / portal link |
 |---|---|---|---|---|---|
-| — | — | — | — | No applications confirmed submitted yet | — |
+| Amazon Web Services | Software Development Graduate, AWS, 2027 Sydney — Job ID 10462014 | 2026-07-24 | 2026-07-31 | Application submitted. Required online assessment is pending and expires **2026-08-23 18:34 Australia/Sydney**. | [Official application](https://www.amazon.jobs/en-gb/jobs/10462014/software-development-graduate-aws-2027-sydney) |
+
+## Active application tasks
+
+Treat these as part of the same preparation queue as remaining resume submissions. Do not mark a task complete without Andy's confirmation.
+
+| Priority | Company | Task | Due | Preparation / completion criteria |
+|---|---|---|---|---|
+| P0 | Amazon Web Services | Prepare for and complete the required online assessment for Job ID 10462014 | 2026-08-23 18:34 Australia/Sydney | Practise timed data-structures and algorithms coding in the chosen language; review Amazon Leadership Principles and Workstyles scenarios; read the provider instructions and system requirements before starting; complete the assessment before expiry. |
 
 ## Removed from active TBS after verification
 
@@ -85,3 +92,4 @@ When Andy reports a submission, update the document in one commit:
 3. Set `Submitted on` to the confirmed date.
 4. Set `Follow-up due` to seven calendar days later unless a different employer timeline is known.
 5. Preserve the original listing or application portal link.
+6. Add any mandatory assessment, interview, or document request to `Active application tasks` with its exact deadline.
