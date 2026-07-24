@@ -151,3 +151,22 @@ Use only when supported by the specific content Andy provides:
 - coordinating people and components around a shared outcome.
 
 Do not use more than one central “superpower” in the final answer.
+
+## Andy's approved personal-strengths source
+
+The following is Andy's own source description. Treat it as the factual and personal basis for future answers about strengths, personality, teamwork, hobbies, communication style and cultural fit. It is source material rather than polished application copy; select and tailor only the parts relevant to the exact question and word limit.
+
+> 善于管理，善于使用AI，因为我语言能力很好，擅长精确描述问题或需求，我有相当的哲学背景，这有助于我提高沟通的质量和效率，同时避免冲突；另外，personally，我是一个有趣的人，有着有趣的灵魂，有创造力，了解古典音乐、文学和艺术，而且略懂理论和创作，是一个聊起天很有趣的人，妙语连珠有幽默感；工作上，我是个聪明人，我不会为了无意义的东西争执，我愿意改变我对事物的看法如果被说服的话。
+
+### Stable themes to preserve
+
+- Strong at management, coordination and turning needs into organised work.
+- Uses AI effectively through precise language, problem framing and requirement definition.
+- Philosophical background improves reasoning, communication efficiency and constructive disagreement.
+- Creative, humorous and broadly interested in classical music, literature and art, including some theory and creative practice.
+- Values useful outcomes over ego or pointless arguments.
+- Willing to revise a position when persuaded by stronger evidence or reasoning.
+
+### Usage rule
+
+Future answers should be based on this source, but should not attempt to include every trait at once. Choose the two or three most relevant qualities, preserve Andy's personality, avoid unsupported embellishment and express confidence without directly claiming superiority.
